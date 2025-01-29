@@ -1,0 +1,14 @@
+.display {
+    width: calc(100% - 20px); /* Diminui o tamanho, removendo o espaço extra à direita */
+    height: 50px; /* Manter altura reduzida */
+    margin-bottom: 20px;
+    text-align: right;
+    font-size: 2rem; /* Reduzido para ficar mais adequado */
+    padding: 10px 10px 10px 10px; /* Ajustado para reduzir o espaço interno, mantendo o alinhamento */
+    border: none;
+    border-radius: 10px;
+    background: #333;
+    color: #f1f1f1;
+    box-shadow: inset 0 4px 10px rgba(0, 0, 0, 0.4);
+  }
+  
