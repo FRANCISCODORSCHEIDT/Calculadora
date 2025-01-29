@@ -22,4 +22,4 @@ Este projeto é uma calculadora interativa desenvolvida com **HTML**, **CSS** e 
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://franciscodorscheidt.github.io/Calculadora/
+   https://franciscodorscheidt.github.io/Calculadora/
