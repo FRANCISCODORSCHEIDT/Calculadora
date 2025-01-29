@@ -19,7 +19,4 @@ Este projeto é uma calculadora interativa desenvolvida com **HTML**, **CSS** e 
 
 ## Como Usar
 
-1. **Clone o repositório:**
-
-   ```bash
-   https://franciscodorscheidt.github.io/Calculadora/
+https://franciscodorscheidt.github.io/Calculadora
